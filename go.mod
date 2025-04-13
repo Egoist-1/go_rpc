@@ -1,3 +1,3 @@
 module gorpc
 
-go 1.23.7
+go 1.22
